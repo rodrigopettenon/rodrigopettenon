@@ -1,5 +1,7 @@
 # Rodrigo Pettenon Rodrigues
 
+Desenvolvedor backend em formação, com base sólida em Java, Spring Boot e banco de dados relacionais.
+
 ## Tecnologias
 
 <div align="left">
