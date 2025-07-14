@@ -4,15 +4,16 @@ Desenvolvedor backend em formação, com foco em Java, Spring Boot e bancos de d
 
 ## 💻 Tecnologias e Ferramentas
 
-- Java 11+
-- Spring Boot
-- JPA (EntityManager) / JDBC
-- MySQL / SQL Server
-- Git / GitHub
-- Postman
-- IntelliJ IDEA
-- Arquitetura em camadas
-- APIs RESTful
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
 
 ## 🚀 Projeto em Destaque
 
