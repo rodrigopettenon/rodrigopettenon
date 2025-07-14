@@ -1,16 +1,25 @@
-## Hi there 👋
+# Rodrigo Pettenon Rodrigues
 
-<!--
-**rodrigopettenon/rodrigopettenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor backend em formação, com foco em Java, Spring Boot e bancos de dados relacionais. Apaixonado por tecnologia e pelo desenvolvimento de soluções eficientes, sigo em constante evolução técnica e comprometido com boas práticas de codificação, organização e entrega de valor. Busco oportunidades para aplicar meus conhecimentos, colaborar com equipes e crescer profissionalmente na área de desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java 11+
+- Spring Boot
+- JPA (EntityManager) / JDBC
+- MySQL / SQL Server
+- Git / GitHub
+- Postman
+- IntelliJ IDEA
+- Arquitetura em camadas
+- APIs RESTful
+
+## 🚀 Projeto em Destaque
+
+### [OrderFlow API](https://github.com/rodrigopettenon/orderflow-api)  
+API RESTful para gestão de clientes, produtos e pedidos, desenvolvida com Java e Spring Boot. O projeto inclui arquitetura em camadas, validações manuais, consultas nativas com EntityManager, tratamento centralizado de exceções, paginação, ordenação e versionamento com Git.
+
+## 📫 Contato
+
+- **E-mail:** ogirdorpettenon@gmail.com  
+- **LinkedIn:** [linkedin.com/in/rodrigopettenon](https://www.linkedin.com/in/rodrigopettenon)
